@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack, REST API, and MongoDB **
+- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
 
 <h2> Stats </h2>
 
