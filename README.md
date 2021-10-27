@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaman</h1>
+<h1 align="center">Hi 👋, I'm Hridoy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
 <!--
