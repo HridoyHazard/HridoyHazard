@@ -9,10 +9,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-<a href="https://github.com/HridoyHazard/github-readme-activity-graph"><img alt="HridoyHazard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HridoyHazard&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
- ![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
+</br>
+![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
 
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
