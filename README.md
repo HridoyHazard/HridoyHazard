@@ -3,14 +3,13 @@
 
 - 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
 
-# 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 </br>
-![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
 
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
@@ -77,7 +76,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
-
+<!--
 **HridoyHazard/HridoyHazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
