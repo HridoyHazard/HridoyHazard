@@ -8,9 +8,6 @@
   <br/>
     <a href="https://github.com/HridoyHazard/github-readme-stats"><img alt="HridoyHazard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HridoHazard&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/HridoyHazard/github-readme-stats"><img alt="HridoyHazard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
 <br/>
 
 <a href="https://github.com/HridoyHazard/github-readme-activity-graph"><img alt="Kailash Kejriwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HridoyHazard&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -19,6 +16,7 @@
 
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
