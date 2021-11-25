@@ -9,8 +9,6 @@
     </a>
 </p>
 
-[![Hridoy's github activity graph](https://activity-graph.herokuapp.com/graph?username=HridoyHazard&theme=xcode)](https://github.io/HridoyHazard)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
