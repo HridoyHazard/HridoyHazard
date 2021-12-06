@@ -5,6 +5,10 @@ I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
 - 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
+- 👯 I’m looking to collaborate on Web Development Related Projects **
+- 🤔 I’m looking for help with Mern **
+- 🥅 2021 Goals: To be profficient in MERN Stack :|
+- ⚡ Fun fact: I love taking photos, playing video games.
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
