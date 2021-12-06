@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
+
+I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
 - 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
@@ -79,7 +82,8 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     
 <!--
 **HridoyHazard/HridoyHazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
