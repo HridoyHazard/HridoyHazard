@@ -1,3 +1,4 @@
+<p align="center"><img width="30%" height="auto" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb55d815-d14e-45d3-abc4-efe556e169d0/d9jxcng-9117f251-497c-450b-bf6b-e31883c73632.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JiNTVkODE1LWQxNGUtNDVkMy1hYmM0LWVmZTU1NmUxNjlkMFwvZDlqeGNuZy05MTE3ZjI1MS00OTdjLTQ1MGItYmY2Yi1lMzE4ODNjNzM2MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DNEkUCmCy9hqGkwHXFAc08w8XSVHJnsITQqgCVmOu3g" height="150px"/></p>
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
 
 I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
@@ -90,6 +91,8 @@ I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer
 <a href="https://fb.com/hridoy.the.hazard10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://instagram.com/hridoyalhazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/HridoyHazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahadat-hossain-hridoy-629aa81b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahadat-hossain-hridoy-629aa81b3/" height="30" width="40" /></a>
+    
     
 <!--
 **HridoyHazard/HridoyHazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
