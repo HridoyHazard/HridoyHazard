@@ -8,7 +8,7 @@ I am Shahadat Hossain Hridoy,I am currently pursuing my Bachelors in computer sc
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **Web Development Related Projects**
 - 🤔 I’m looking for help with **MERN**
-- 🥅 2024 Goals: To be profficient in MERN Stack :|
+- 🥅 2025 Goals: To be profficient in MERN Stack :|
 - ⚡ Fun fact: I love taking photos, playing video games etc
 
 <p align="center">
